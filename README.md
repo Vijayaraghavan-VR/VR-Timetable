@@ -1,5 +1,5 @@
 # VR-Timetable
-A Static website created for Web Technology Class
+A Static website created for Web Technology Class.
 
 <p align="center">
   <img width="70%" src="VR.png">
